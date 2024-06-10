@@ -1,0 +1,802 @@
+[
+  {
+    "id": "4d4d0e3c-69e3-4b9d-9d5e-d3e25a0813ab",
+    "name": "aws_s3_bucket",
+    "cli_command": "npm install mysoftware",
+    "status": "pending",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "1f59c44a-543d-493e-9f15-eb9a34db24cf",
+    "name": "aws_api_gateway_api_key",
+    "cli_command": "npm install mysoftware",
+    "status": "pending",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "a29d6604-46d6-4d5f-865f-99d1055fd94b",
+    "name": "aws_s3_bucket_storage",
+    "cli_command": "npm install mysoftware",
+    "status": "succeeded",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "84792967-6d1e-4f56-bc8f-c0197a1282b6",
+    "name": "aws_acm_certificate_validation",
+    "cli_command": "npm install mysoftware",
+    "status": "pending",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "5afac5e8-5dd4-4d68-8775-20b2b26b8a9e",
+    "name": "aws_api_gateway_authorizer",
+    "cli_command": "npm install mysoftware",
+    "status": "terminated",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "6742d7b1-d142-481a-aadd-3a24eb9ff9e4",
+    "name": "aws_api_gateway_documentation_part",
+    "cli_command": "npm install mysoftware",
+    "status": "terminated",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "a66d1c2e-97b7-4706-b50b-4eb43c6a2e4f",
+    "name": "aws_api_gateway_domain_name",
+    "cli_command": "npm install mysoftware",
+    "status": "terminated",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "db0d10d1-fdf6-4d76-9e1b-d583a53a8687",
+    "name": "aws_api_gateway_method_settings",
+    "cli_command": "npm install mysoftware",
+    "status": "terminated",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "7701a879-728b-43f3-8788-f28f768d197c",
+    "name": "aws_api_gateway_request_validator",
+    "cli_command": "npm install mysoftware",
+    "status": "terminated",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "3c79108b-47b5-487c-a56e-647f723f7e91",
+    "name": "aws_api_gateway_rest_api",
+    "cli_command": "npm install mysoftware",
+    "status": "pending",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "579639f5-8967-4703-8c41-93f508388853",
+    "name": "aws_api_gateway_stage",
+    "cli_command": "npm install mysoftware",
+    "status": "pending",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "8d3f798b-f7f9-4a6a-8071-189876a347f4",
+    "name": "aws_api_gateway_usage_plan",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "78403f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_api_gateway_vpc_link",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98923f72-b899-481a-809f-f449768859b1",
+    "name": "aws_app_mesh_route",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "39823f72-b899-481a-809f-f449768859b1",
+    "name": "aws_app_mesh_virtual_node",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "78903f72-b899-481a-809f-f449768859b1",
+    "name": "aws_app_mesh_virtual_router",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "77803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_app_mesh_virtual_service",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "89703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_appsync_api_cache",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "29873f72-b899-481a-809f-f449768859b1",
+    "name": "aws_appsync_api_key",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "69823f72-b899-481a-809f-f449768859b1",
+    "name": "aws_appsync_data_source",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "78973f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_appsync_function",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98723f72-b899-481a-809f-f449768859b1",
+    "name": "aws_appsync_graphql_api",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "38903f72-b899-481a-809f-f449768859b1",
+    "name": "aws_appsync_resolver",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "79803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_appsync_type",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "88803f7f-f1f8-4721-808f-48b7568859b2",
+    "name": "aws_athena_data_catalog",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "79783f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_athena_named_query",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "28923f72-b899-481a-809f-f449768859b1",
+    "name": "aws_athena_work_group",
+    "cli_command": "cd ..",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "89903f72-b899-481a-809f-f449768859b3",
+    "name": "aws_autoscaling_auto_scaling_group",
+    "cli_command": "cd ..",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "67803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_launch_configuration",
+    "cli_command": "cd ..",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "28733f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_lifecycle_hook",
+    "cli_command": "cd ..",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "27973f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_notification",
+    "cli_command": "cd ..",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "76703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_policy",
+    "cli_command": "help date",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "87803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_scaling_plan",
+    "cli_command": "help date",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "68703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_autoscaling_schedule",
+    "cli_command": "help date",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "67823f72-b899-481a-809f-f449768859b1",
+    "name": "aws_autoscaling_tag",
+    "cli_command": "help date",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "89903f72-b899-481a-809f-f449768859b2",
+    "name": "aws_backup_backup_plan",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "67903f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_backup_backup_selection",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98783f7f-f1f8-4721-808f-48b7568859b5",
+    "name": "aws_backup_backup_vault",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "89703f72-b899-481a-809f-f449768859b1",
+    "name": "aws_backup_recovery_point",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "26703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_backup_restore_job",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98783f7f-f1f8-4721-808f-48b7568859b2",
+    "name": "aws_batch_compute_environment",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "27703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_batch_job_queue",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98803f72-b899-481a-809f-f449768859b1",
+    "name": "aws_batch_job",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "66703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_batch_scheduling_policy",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "29803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_cloud9_environment",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "88803f7f-f1f8-4721-808f-48b7568859bt",
+    "name": "aws_cloudformation_stack",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "29903f72-b899-481a-809f-f449768859b1",
+    "name": "aws_cloudformation_stack_set",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "98823f72-b899-481a-809f-f449768859b1",
+    "name": "aws_cloudformation_type",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "28803f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_cloudtrail_trail",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  },
+  {
+    "id": "99703f7f-f1f8-4721-808f-48b7568859b1",
+    "name": "aws_cloudwatch_alarm",
+    "cli_command": "npm install mysoftware",
+    "status": "failed",
+    "metadata": {
+      "user": "user1",
+      "group": "group1",
+      "submitted_date": "1717921892",
+      "completed_date": "1717921962",
+      "logs": [
+        "line1",
+        "line2"
+      ]
+    }
+  }
+]
