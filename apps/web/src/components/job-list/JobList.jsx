@@ -15,7 +15,7 @@ function JobList() {
                 <div>Job List:</div>
             </div>
             <div className='job-list-body'>
-                {!loading&&data.map(item => <JobListItem key={item.id} showDetails={item.id === openJobKey}
+                {!loading&&data?.map(item => <JobListItem key={item.id} showDetails={item.id === openJobKey}
                                                          setOpenJobKey={setOpenJobKey} job={item}/>)}
             </div>
         </div>

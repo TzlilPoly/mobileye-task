@@ -5,6 +5,9 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
+    "test": "turbo run test --filter=web",
+    "cypress:chrome": "cypress run --browser chrome",
+    "e2e-test": "turbo run cypress:chrome",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
