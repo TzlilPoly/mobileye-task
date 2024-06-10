@@ -1,0 +1,5 @@
+.idea
+.turbo
+node_modules
+apps/web/%SystemDrive%
+apps/web/node_modules
