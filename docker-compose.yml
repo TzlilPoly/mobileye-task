@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  turbo:
+    image: mobileye-app:dev
+    ports:
+      - "5173:5173"
+      - "3000:3000"
